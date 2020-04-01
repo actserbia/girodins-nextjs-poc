@@ -1,7 +1,6 @@
-// import '../public/style.css'
-// import  '../components/Team.css';
 import Bar from "../components/Bar";
 import "../sass/styles.scss";
+
 // This default export is required in a new `pages/_app.js` file.
 export default function MyApp({ Component, pageProps }) {
     return (

@@ -1,7 +1,7 @@
 import axios from "axios";
 const token = process.env.TOKEN;
 axios.defaults.headers.common["X-Auth-Token"] =
-    token || "e72d71ca22bd4ab6842ea4bad1effbd0";
+    "e72d71ca22bd4ab6842ea4bad1effbd0";
 const api = {
     async getStandings(standingType) {
         try {

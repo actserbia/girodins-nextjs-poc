@@ -70,7 +70,6 @@ const Team = ({ home, id, detail }) => {
                     </div>
                 </div>
             </div>
-
             {team.error ? (
                 <h6 className="error">{team.error} </h6>
             ) : (

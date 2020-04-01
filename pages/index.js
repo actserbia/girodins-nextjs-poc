@@ -1,9 +1,5 @@
-import { useState, useEffect } from "react";
 import Team from "../components/Team";
-import Error from "next/error";
 import api from "../api";
-import localStorageState from "../hooks/useLocalStorageState";
-import useLocalStorageState from "../hooks/useLocalStorageState";
 
 const Home = ({ table, error }) => {
     return (
@@ -27,8 +23,8 @@ const Home = ({ table, error }) => {
                         </div>
                     </li>
                     {error && <h6 className="error">{error}</h6>}
-                    {table.map(standing => (
-                        <Team standing={standing} />
+                    {table.map((standing, index) => (
+                        <Team key={`team-${index}`} standing={standing} />
                     ))}
                 </ul>
             </div>
@@ -36,7 +32,7 @@ const Home = ({ table, error }) => {
     );
 };
 
-Home.getInitialProps = async ({ query }) => {
+Home.getInitialProps = async () => {
     return await api.getStandings();
 };
 Home.defaultProps = {
