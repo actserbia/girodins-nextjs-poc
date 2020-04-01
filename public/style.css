@@ -1,0 +1,38 @@
+img {
+    width: 100%;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    text-align: center;
+    font-family: Roboto;
+}
+h5 {
+    padding: 5px;
+    background-color: white;
+}
+.container {
+    width: 100%;
+    max-width: 306px;
+    max-height: 637px;
+    background: #78ff0012;
+    margin: 0 auto;
+}
+
+.Bar {
+    width: 100%;
+    display: flex;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background: black;
+    justify-content: center;
+}
+.Bar img {
+    width: 50px;
+}
+.Livescore img {
+    width: 20px;
+}

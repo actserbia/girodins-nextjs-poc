@@ -1,0 +1,27 @@
+.Bar {
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+    height: 75px;
+    display: flex;
+    position: fixed;
+    bottom: 0;
+    // left: 0;
+    background: #333336;
+    justify-content: center;
+    align-content: center;
+    & > div {
+        width: 50%;
+        text-align: center;
+        display: flex;
+        align-content: center;
+        justify-content: center;
+        &.active {
+            background-color: #313b49;
+        }
+    }
+}
+.Bar img {
+    width: 43px;
+    margin-top: 6px;
+}

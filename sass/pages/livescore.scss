@@ -1,0 +1,35 @@
+.Livescore-container {
+    h2 {
+        font-family: HelveticaNeue-CondensedBold, Roboto;
+        padding-top: 5%;
+        padding-bottom: 5%;
+    }
+    padding-bottom: 70px;
+}
+.Livescore {
+    display: grid;
+    grid-template-columns: 0.8fr 1.7fr 0.8fr;
+    padding: 0 5%;
+    // margin-bottom: 15%;
+    img {
+        width: 100%;
+    }
+}
+.Livescore-match {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: HelveticaNeue, Roboto;
+    font-size: 50px;
+    font-weight: 900;
+    font-stretch: condensed;
+    font-style: normal;
+    line-height: 1.22;
+    letter-spacing: normal;
+    text-align: left;
+    color: #707070;
+}
+.arsenal {
+    width: 78%;
+    justify-self: right;
+}

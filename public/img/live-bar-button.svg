@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="46.366" height="49.003" viewBox="0 0 46.366 49.003">
+    <defs>
+        <style>
+            .prefix__cls-3{fill:#fff}
+        </style>
+    </defs>
+    <g id="prefix__live_bar_button" data-name="live bar button" transform="translate(0 .003)">
+        <text id="prefix__Live" transform="translate(11.315 46)" style="font-size:14px;font-family:HelveticaNeue-CondensedBold,Helvetica Neue;font-weight:700;fill:#fff">
+            <tspan x="0" y="0">Live</tspan>
+        </text>
+        <g id="prefix__monitor" transform="translate(0 -107.816)" style="opacity:.759">
+            <g id="prefix__Group_32" data-name="Group 32" transform="translate(0 107.816)">
+                <path id="prefix__Path_16" d="M45.8 107.816H.566a.516.516 0 0 0-.566.442v25.056a.516.516 0 0 0 .566.442H17.9l-.2 3.174h10.971l-.2-3.174H45.8a.516.516 0 0 0 .566-.442v-25.056a.516.516 0 0 0-.566-.442zM44.033 131.3c0 .209-.228.378-.509.378H2.847c-.281 0-.509-.169-.509-.378v-21.255c0-.209.228-.378.509-.378h40.677c.281 0 .509.169.509.378V131.3z" class="prefix__cls-3" data-name="Path 16" transform="translate(0 -107.816)"/>
+                <path id="prefix__Path_17" d="M325.016 809.178v-.584a.45.45 0 0 0-.45-.449h-13.42a.449.449 0 0 0-.449.449v.584a.45.45 0 0 0 .449.45h13.42a.45.45 0 0 0 .45-.45z" class="prefix__cls-3" data-name="Path 17" transform="translate(-294.671 -778.127)"/>
+                <path id="prefix__Path_18" d="M262.684 186a9.675 9.675 0 1 0 9.673 9.674 9.675 9.675 0 0 0-9.673-9.674zm8.03 13.065a8.749 8.749 0 0 1-.391.806l-3.71.552a.459.459 0 0 0-.32.247l-1.468 3.453a8.8 8.8 0 0 1-4.281 0l-1.468-3.453a.459.459 0 0 0-.32-.247l-3.71-.552a8.742 8.742 0 0 1-.391-.806 8.626 8.626 0 0 1-.647-2.578l2.759-2.539a.459.459 0 0 0 .126-.384l-.723-3.678q.171-.192.353-.375a8.686 8.686 0 0 1 2.687-1.832l3.273 1.833a.459.459 0 0 0 .4 0l3.273-1.833a8.686 8.686 0 0 1 2.687 1.832q.183.183.353.375l-.723 3.678a.459.459 0 0 0 .126.384l2.759 2.539a8.624 8.624 0 0 1-.644 2.578z" class="prefix__cls-3" data-name="Path 18" transform="translate(-239.499 -182.593)"/>
+                <path id="prefix__Path_19" d="M398.043 323.552l-3.351-2.435a.339.339 0 0 0-.375 0l-3.351 2.435a.34.34 0 0 0-.116.357l1.28 3.939a.34.34 0 0 0 .3.22h4.142a.339.339 0 0 0 .3-.22l1.28-3.939a.34.34 0 0 0-.109-.357z" class="prefix__cls-3" data-name="Path 19" transform="translate(-371.319 -311.955)"/>
+            </g>
+        </g>
+    </g>
+</svg>

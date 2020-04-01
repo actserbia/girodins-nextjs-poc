@@ -1,0 +1,42 @@
+@import "./base/reset.scss";
+@import "./components/Team.scss";
+@import "./components/Bar.scss";
+@import "./components/Team-detail.scss";
+@import "./pages/Livescore.scss";
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+body {
+    font-family: Helvetica Neue, Roboto;
+    color: #707070;
+}
+h2 {
+    font-family: HelveticaNeue-CondensedBLack, Roboto;
+    font-size: 25px;
+    font-weight: bold;
+    font-stretch: condensed;
+    font-style: normal;
+    line-height: 1.24;
+    letter-spacing: normal;
+    text-align: left;
+    color: #707070;
+    text-transform: uppercase;
+    text-align: center;
+}
+h5 {
+    text-align: center;
+    padding: 4.4%;
+}
+.background-image {
+    width: 100%;
+    margin-bottom: 3%;
+}
+.container {
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+.error {
+    margin: 70px 0;
+    color: red;
+    text-align: center;
+}

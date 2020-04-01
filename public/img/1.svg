@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.96" height="18.96" viewBox="0 0 18.96 18.96">
+    <defs>
+        <linearGradient id="prefix__linear-gradient" x2="1" y1=".5" y2=".5" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#00f1ff"/>
+            <stop offset=".231" stop-color="#00d8ff"/>
+            <stop offset=".514" stop-color="#00c0ff"/>
+            <stop offset=".777" stop-color="#00b2ff"/>
+            <stop offset="1" stop-color="#00adff"/>
+        </linearGradient>
+    </defs>
+    <g id="prefix__Component_2_1" data-name="Component 2 – 1" transform="translate(-.001)">
+        <path id="prefix__Path_1" d="M18.961 9.48A9.48 9.48 0 1 1 9.481 0a9.48 9.48 0 0 1 9.48 9.48zm0 0" data-name="Path 1"/>
+        <g id="prefix__stadium" transform="translate(2.379 -67.968)">
+            <g id="prefix__Group_2" data-name="Group 2" transform="translate(0 72.348)">
+                <path id="prefix__Path_5" d="M12.31 72.348H1.335A1.336 1.336 0 0 0 0 73.683V80.8a1.336 1.336 0 0 0 1.335 1.335H12.31a1.336 1.336 0 0 0 1.335-1.335v-7.117a1.336 1.336 0 0 0-1.335-1.335zm-5.042 3.636a1.335 1.335 0 0 1 0 2.517zM.89 75.463h.445a.445.445 0 0 1 .445.445v2.67a.445.445 0 0 1-.445.445H.89zM6.378 78.5a1.335 1.335 0 0 1 0-2.517zm0-3.438a2.225 2.225 0 0 0 0 4.36v1.825H1.335A.445.445 0 0 1 .89 80.8v-.89h.445a1.336 1.336 0 0 0 1.335-1.333v-2.67a1.336 1.336 0 0 0-1.335-1.335H.89v-.89a.445.445 0 0 1 .445-.445h5.043v1.825zm6.378 3.96h-.446a.445.445 0 0 1-.445-.445v-2.67a.445.445 0 0 1 .445-.445h.445zm0-4.45h-.446a1.336 1.336 0 0 0-1.335 1.335v2.67a1.336 1.336 0 0 0 1.335 1.335h.445v.89a.445.445 0 0 1-.445.445H7.268v-1.825a2.225 2.225 0 0 0 0-4.36v-1.824h5.042a.445.445 0 0 1 .445.445z" data-name="Path 5" transform="translate(0 -72.348)" style="fill:#fff"/>
+            </g>
+        </g>
+    </g>
+</svg>
