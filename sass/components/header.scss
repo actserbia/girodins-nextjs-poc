@@ -1,0 +1,23 @@
+.Header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #313b49;
+    height: 75px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    text-align: center;
+    & > div {
+        width: 58px;
+        height: 58px;
+        background-color: white;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    img {
+        width: 38px;
+    }
+}

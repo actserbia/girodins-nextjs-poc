@@ -8,7 +8,7 @@ const Livescore = () => {
     });
 
     useEffect(() => {
-        const socket = new W3CWebSocket("ws://vasilie.net:42069/", "");
+        const socket = new W3CWebSocket("ws://localhost:42069/", "");
 
         socket.onerror = function() {
             console.log("Connection Error");

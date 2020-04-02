@@ -1,6 +1,7 @@
 @import "./base/reset.scss";
 @import "./components/Team.scss";
 @import "./components/Bar.scss";
+@import "./components/header.scss";
 @import "./components/Team-detail.scss";
 @import "./pages/livescore.scss";
 
@@ -25,6 +26,9 @@ h2 {
 h5 {
     text-align: center;
     padding: 4.4%;
+}
+.Main {
+    padding-top: 75px;
 }
 .background-image {
     width: 100%;
