@@ -9,12 +9,12 @@ const Bar = () => {
             <div className="Bar">
                 <Link href="/">
                     <div className={livescorePage ? "" : "active"}>
-                        <img src="../img/rank-bar-button.svg" />
+                        <img src="../img/rank-bar-button.png" />
                     </div>
                 </Link>
                 <Link href="/livescore">
                     <div className={!livescorePage ? "" : "active"}>
-                        <img src="../img/live-bar-button.svg" />
+                        <img src="../img/live-bar-button.png" />
                     </div>
                 </Link>
             </div>
