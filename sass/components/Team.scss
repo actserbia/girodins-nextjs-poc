@@ -1,5 +1,9 @@
 .Team {
     padding-bottom: 117px;
+    a {
+        color: inherit;
+        text-decoration: inherit;
+    }
 }
 .Team-list {
     display: grid;

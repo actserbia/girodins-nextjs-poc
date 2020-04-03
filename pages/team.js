@@ -1,8 +1,8 @@
 import { useState } from "react";
+// import api from "../api";
+import TeamInfo from "../components/TeamInfo";
 import Router from "next/router";
-import api from "../../api";
-import TeamInfo from "../../components/TeamInfo";
-import TeamStats from "../../components/TeamStats";
+import TeamStats from "../components/TeamStats";
 
 const Team = ({ home, id, detail }) => {
     const initialStanding = {

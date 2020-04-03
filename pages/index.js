@@ -32,9 +32,10 @@ const Home = ({ table, error }) => {
     );
 };
 
-Home.getInitialProps = async () => {
-    return await api.getStandings();
-};
+export async function getServerSideProps({ query }) {
+    return { props: await api.getStandings() };
+}
+
 Home.defaultProps = {
     table: [
         {
